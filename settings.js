@@ -17,7 +17,7 @@ global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
 global.ownernumber = '393895485784'  //creator number
-global.ownername = '🜏{҉§qµålðñê}҉𐕣⁽⁺³⁹⁾𖤐' //owner name
+global.ownername = '🜏{҉§qµålðñê}҉𖤐' //owner name
 global.botname = 'SqualoBot' //name of the bot
 
 //sticker details
